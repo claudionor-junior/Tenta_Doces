@@ -230,7 +230,10 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 100%;
+  width: 350px;
+  height: 250px;
+  margin-left: 50px;
+  
 }
 
 .slider_section .slider_number-container {
